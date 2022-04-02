@@ -21,3 +21,13 @@ Username：xsgcs@xsgcs.com
 Password：Xsgcs.com
 Crack_Version：14.7.220228146
 ```
+## Crack_Version：220322147 (AWVS14.7.220322147)
+
+```
+docker pull xsgcs/awvscrack14_7_220322147:latest
+docker run -it -d -p 8088:3443 xsgcs/awvscrack14_7_220322147:latest /bin/bash /var/local/xsgcs.sh
+Go to https://YOUR_IP:8088/
+Username：xsgcs@xsgcs.com 
+Password：Xsgcs.com
+Crack_Version：14.7.220322147
+```
